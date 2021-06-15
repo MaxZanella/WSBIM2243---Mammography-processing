@@ -7,4 +7,6 @@ docker pull maxzan/wsbim2243
 
 docker run -p 8888:8888 maxzan/wsbim2243
 
+And by pasting the last url shown on your terminal
+
 All other information is contained in the notebook which acts as a report with embedded code and examples.
