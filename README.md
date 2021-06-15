@@ -3,5 +3,7 @@
 
  You can launch the notebook in a container with all the necessary libraries
  command : 
+ 
 docker pull maxzan/wsbim2243
+
 docker run -p 8888:8888 maxzan/wsbim2243
