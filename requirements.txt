@@ -1,0 +1,12 @@
+pandas
+scipy
+tqdm==4.36.1
+mahotas==1.4.11
+Pillow==7.2.0
+pydicom==2.1.1
+pytorch-ignite==0.4.2
+pytz==2019.3
+PyWavelets==1.1.1
+scikit-image
+scikit-learn
+
